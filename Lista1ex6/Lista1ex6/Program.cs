@@ -10,8 +10,8 @@ namespace Lista1ex6
     {
         static void Main(string[] args)
         {
-            Double valor1, valor2;
-            Double mediageo;
+            double valor1, valor2;
+            double mediageo;
 
             Console.Write("Digite o primeiro número: ");
             valor1 = Double.Parse(Console.ReadLine());
